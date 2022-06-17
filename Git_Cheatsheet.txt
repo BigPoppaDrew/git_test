@@ -1,3 +1,14 @@
+Run in this order for new file:
+    Create file in directory
+    Git Status to see what hasn't been commited
+    git add . to push all changes in that directory
+    git status to see if it's committed
+    git commit -m "Insert Update"   to explain what change taken place
+    git push to push it up to github
+    git status to verify nothing left to commit
+
+
+
 Commands related to remote repository:
     git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
     git push or git push orign main (Both accomplish the same goal in this context)
